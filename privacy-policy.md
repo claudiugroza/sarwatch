@@ -1,4 +1,4 @@
-# This privacy policy governs your use of the software application SAR Watch (“Application”) for mobile devices that was created by claug. The Application is monitoring exposure to phone and ambient EMF radiation and presents some intepretation information to users.
+## This privacy policy governs your use of the software application SAR Watch (“Application”) for mobile devices that was created by claug. The Application is monitoring exposure to phone and ambient EMF radiation and presents some intepretation information to users.
 
 # What information does the Application obtain and how is it used?
 In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application. 
